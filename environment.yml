@@ -20,7 +20,7 @@ dependencies:
   - partd
   - psutil
   - r
-  - rstudio
+#  - rstudio
   - rpy2
   - scipy
   - statsmodels
