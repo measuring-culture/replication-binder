@@ -21,7 +21,13 @@ dependencies:
   - psutil
   - r
 #  - rstudio
+  - r-base
+  - r-irkernel
+  - sympy
   - rpy2
+  - r-tidyr
+  - r-tibble
+  - r-dplyr
   - scipy
   - statsmodels
   - seaborn
