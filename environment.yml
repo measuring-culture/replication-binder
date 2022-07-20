@@ -29,3 +29,7 @@ dependencies:
   - toolz
   - pip
   - pandas-datareader
+  - pip:
+      - googledrivedownloader
+      - pandas_datareader
+      - nbgitpuller
