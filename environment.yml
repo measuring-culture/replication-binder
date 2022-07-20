@@ -28,6 +28,4 @@ dependencies:
   - scikit-learn
   - toolz
   - pip
-  - pip:
-      googledrivedownloader
-      pandas_datareader
+  - pandas-datareader
