@@ -14,6 +14,7 @@ dependencies:
   - jupyter_console
   - jupyter_core
   - linearmodels
+  - geocoder
   - matplotlib
   - pandas
   - pandasql
@@ -39,3 +40,4 @@ dependencies:
       - googledrivedownloader
       - pandas_datareader
       - nbgitpuller
+      - geonamescache
